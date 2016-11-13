@@ -1,0 +1,35 @@
+.header
+{
+	background-color: #F0BD35;
+	margin-bottom: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.header > .row
+{
+	margin-bottom: 0px;
+}
+body, h1
+{
+	margin: 0;
+}
+h1
+{
+	margin-bottom: 5px;
+}
+.card
+{
+	border: 2px solid #E3E3E3;
+}
+img
+{
+	width: 100%;
+	background-size: contain;
+	margin-bottom: 10px;
+}
+b, p
+{
+	padding-left: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
